@@ -740,6 +740,7 @@ B. Helpers
 
 .ts-video-bg {
     height: 100%;
+    filter: brightness(140%);
 }
 
 .ts-video-bg .fluid-width-video-wrapper {
@@ -3181,5 +3182,10 @@ h1 a.ts-underline {
 }
 
 .vidadjustments {
-  padding-top: 300px;
+  padding-top: 260px;
+  padding-left: 8vw;
+}
+
+#museheaderimg {
+  padding-top: 120px;
 }
