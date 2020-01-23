@@ -1399,7 +1399,7 @@ blockquote h2 {
 }
 
 .blockquote-footer {
-    opacity: .6;
+    opacity: .9;
 }
 
 .blockquote-footer:before {
@@ -3188,4 +3188,13 @@ h1 a.ts-underline {
 
 #museheaderimg {
   padding-top: 120px;
+}
+
+.autom {
+  background-image: url("assests/img/bg__pattern--topo.png");
+}
+
+.blacknwhite {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
 }
